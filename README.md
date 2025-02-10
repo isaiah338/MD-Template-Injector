@@ -4,7 +4,7 @@ This Python script is designed to automatically append a predefined template to 
 
 ## Features 
 - read markdown file from template folder
-- - append text content of template markdown to all markdown files in given folder
+- append text content of template markdown to all markdown files in given folder
 
 ## Use Case 
 > This script is perfect for automating repetitive tasks, such as adding standard headers or index sections to course notes, documentation, or project files.
