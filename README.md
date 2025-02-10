@@ -10,3 +10,8 @@
 > This script is perfect for automating repetitive tasks, such as adding standard headers or index sections to course notes, documentation, or project files.
 
 ### ToDo
+- auto-generate log file & folder
+- allow user input for template file absolute path
+- allow user to prepend or append template file
+- allow user to choose folder containing markdown files to modify
+- allow user to import blacklist | whitelist csv
